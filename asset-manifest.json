@@ -1,13 +1,14 @@
 {
   "files": {
     "main.css": "/ksdev-3d-portfolio/static/css/main.1d853e32.css",
-    "main.js": "/ksdev-3d-portfolio/static/js/main.f049d4bd.js",
+    "main.js": "/ksdev-3d-portfolio/static/js/main.0be8321f.js",
+    "static/media/laptop.glb": "/ksdev-3d-portfolio/static/media/laptop.d8412238a1bdbae08a32.glb",
     "index.html": "/ksdev-3d-portfolio/index.html",
     "main.1d853e32.css.map": "/ksdev-3d-portfolio/static/css/main.1d853e32.css.map",
-    "main.f049d4bd.js.map": "/ksdev-3d-portfolio/static/js/main.f049d4bd.js.map"
+    "main.0be8321f.js.map": "/ksdev-3d-portfolio/static/js/main.0be8321f.js.map"
   },
   "entrypoints": [
     "static/css/main.1d853e32.css",
-    "static/js/main.f049d4bd.js"
+    "static/js/main.0be8321f.js"
   ]
 }
