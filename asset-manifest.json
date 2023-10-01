@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/ksdev-3d-portfolio/static/css/main.1d853e32.css",
+    "main.js": "/ksdev-3d-portfolio/static/js/main.4daae877.js",
+    "static/media/ksdev.png": "/ksdev-3d-portfolio/static/media/ksdev.39bd2630c3bebfa68fae.png",
+    "index.html": "/ksdev-3d-portfolio/index.html",
+    "main.1d853e32.css.map": "/ksdev-3d-portfolio/static/css/main.1d853e32.css.map",
+    "main.4daae877.js.map": "/ksdev-3d-portfolio/static/js/main.4daae877.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d853e32.css",
+    "static/js/main.4daae877.js"
+  ]
+}
