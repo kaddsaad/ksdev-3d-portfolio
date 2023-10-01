@@ -1,0 +1,38 @@
+{
+  "name": "KSDev-3D-portfolio",
+  "version": "1.0.0",
+  "description": "KSDev portfolio.",
+  "keywords": [
+    "occlusion",
+    "drei",
+    "html"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@headlessui/react": "1.6.6",
+    "@heroicons/react": "1.0.6",
+    "@react-three/drei": "^9.76.0",
+    "@react-three/fiber": "^8.13.3",
+    "git": "^0.1.5",
+    "gsap": "^3.12.2",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-scripts": "5.0.1",
+    "three": "^0.153.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  }
+}
