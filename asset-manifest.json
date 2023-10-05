@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ksdev-3d-portfolio/static/css/main.9859efcb.css",
-    "main.js": "/ksdev-3d-portfolio/static/js/main.99c3b1eb.js",
+    "main.js": "/ksdev-3d-portfolio/static/js/main.5891290c.js",
     "static/media/laptop.glb": "/ksdev-3d-portfolio/static/media/laptop.d8412238a1bdbae08a32.glb",
     "static/media/mouse.png": "/ksdev-3d-portfolio/static/media/mouse.c5e3a6bfc3f5ce7347b1.png",
     "static/media/mouseCtrl.png": "/ksdev-3d-portfolio/static/media/mouseCtrl.712e20bc83636ca5b4d1.png",
     "index.html": "/ksdev-3d-portfolio/index.html",
     "main.9859efcb.css.map": "/ksdev-3d-portfolio/static/css/main.9859efcb.css.map",
-    "main.99c3b1eb.js.map": "/ksdev-3d-portfolio/static/js/main.99c3b1eb.js.map"
+    "main.5891290c.js.map": "/ksdev-3d-portfolio/static/js/main.5891290c.js.map"
   },
   "entrypoints": [
     "static/css/main.9859efcb.css",
-    "static/js/main.99c3b1eb.js"
+    "static/js/main.5891290c.js"
   ]
 }
