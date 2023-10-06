@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/kaddsaad.github.io/ksdev-3d-portfolio/static/css/main.3c456b40.css",
+    "main.css": "/kaddsaad.github.io/ksdev-3d-portfolio/static/css/main.0bacf7f7.css",
     "main.js": "/kaddsaad.github.io/ksdev-3d-portfolio/static/js/main.6122c1af.js",
     "static/media/laptop.glb": "/kaddsaad.github.io/ksdev-3d-portfolio/static/media/laptop.d8412238a1bdbae08a32.glb",
     "static/media/mouse.png": "/kaddsaad.github.io/ksdev-3d-portfolio/static/media/mouse.c5e3a6bfc3f5ce7347b1.png",
@@ -8,11 +8,11 @@
     "static/media/mouseCtrl.png": "/kaddsaad.github.io/ksdev-3d-portfolio/static/media/mouseCtrl.712e20bc83636ca5b4d1.png",
     "static/media/full-screen.png": "/kaddsaad.github.io/ksdev-3d-portfolio/static/media/full-screen.ede6231b921adeba4b3e.png",
     "index.html": "/kaddsaad.github.io/ksdev-3d-portfolio/index.html",
-    "main.3c456b40.css.map": "/kaddsaad.github.io/ksdev-3d-portfolio/static/css/main.3c456b40.css.map",
+    "main.0bacf7f7.css.map": "/kaddsaad.github.io/ksdev-3d-portfolio/static/css/main.0bacf7f7.css.map",
     "main.6122c1af.js.map": "/kaddsaad.github.io/ksdev-3d-portfolio/static/js/main.6122c1af.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c456b40.css",
+    "static/css/main.0bacf7f7.css",
     "static/js/main.6122c1af.js"
   ]
 }
