@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/ksdev.ma/static/css/main.0bacf7f7.css",
-    "main.js": "/ksdev.ma/static/js/main.ef4f508e.js",
-    "static/media/laptop.glb": "/ksdev.ma/static/media/laptop.d8412238a1bdbae08a32.glb",
-    "static/media/mouse.png": "/ksdev.ma/static/media/mouse.c5e3a6bfc3f5ce7347b1.png",
-    "static/media/shrink.png": "/ksdev.ma/static/media/shrink.30da90be0023c09d80ce.png",
-    "static/media/mouseCtrl.png": "/ksdev.ma/static/media/mouseCtrl.712e20bc83636ca5b4d1.png",
-    "static/media/full-screen.png": "/ksdev.ma/static/media/full-screen.ede6231b921adeba4b3e.png",
-    "index.html": "/ksdev.ma/index.html",
-    "main.0bacf7f7.css.map": "/ksdev.ma/static/css/main.0bacf7f7.css.map",
-    "main.ef4f508e.js.map": "/ksdev.ma/static/js/main.ef4f508e.js.map"
+    "main.css": "/kaddsaad.github.io/static/css/main.0bacf7f7.css",
+    "main.js": "/kaddsaad.github.io/static/js/main.37add844.js",
+    "static/media/laptop.glb": "/kaddsaad.github.io/static/media/laptop.d8412238a1bdbae08a32.glb",
+    "static/media/mouse.png": "/kaddsaad.github.io/static/media/mouse.c5e3a6bfc3f5ce7347b1.png",
+    "static/media/shrink.png": "/kaddsaad.github.io/static/media/shrink.30da90be0023c09d80ce.png",
+    "static/media/mouseCtrl.png": "/kaddsaad.github.io/static/media/mouseCtrl.712e20bc83636ca5b4d1.png",
+    "static/media/full-screen.png": "/kaddsaad.github.io/static/media/full-screen.ede6231b921adeba4b3e.png",
+    "index.html": "/kaddsaad.github.io/index.html",
+    "main.0bacf7f7.css.map": "/kaddsaad.github.io/static/css/main.0bacf7f7.css.map",
+    "main.37add844.js.map": "/kaddsaad.github.io/static/js/main.37add844.js.map"
   },
   "entrypoints": [
     "static/css/main.0bacf7f7.css",
-    "static/js/main.ef4f508e.js"
+    "static/js/main.37add844.js"
   ]
 }
