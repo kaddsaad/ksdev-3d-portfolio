@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ksdev.ma/static/css/main.60f44a28.css",
-    "main.js": "/ksdev.ma/static/js/main.a5d12f43.js",
-    "static/media/laptop.glb": "/ksdev.ma/static/media/laptop.d8412238a1bdbae08a32.glb",
-    "static/media/mouse.png": "/ksdev.ma/static/media/mouse.c5e3a6bfc3f5ce7347b1.png",
-    "static/media/mouseCtrl.png": "/ksdev.ma/static/media/mouseCtrl.712e20bc83636ca5b4d1.png",
-    "index.html": "/ksdev.ma/index.html",
-    "main.60f44a28.css.map": "/ksdev.ma/static/css/main.60f44a28.css.map",
-    "main.a5d12f43.js.map": "/ksdev.ma/static/js/main.a5d12f43.js.map"
+    "main.css": "/static/css/main.60f44a28.css",
+    "main.js": "/static/js/main.6ef94bd1.js",
+    "static/media/laptop.glb": "/static/media/laptop.d8412238a1bdbae08a32.glb",
+    "static/media/mouse.png": "/static/media/mouse.c5e3a6bfc3f5ce7347b1.png",
+    "static/media/mouseCtrl.png": "/static/media/mouseCtrl.712e20bc83636ca5b4d1.png",
+    "index.html": "/index.html",
+    "main.60f44a28.css.map": "/static/css/main.60f44a28.css.map",
+    "main.6ef94bd1.js.map": "/static/js/main.6ef94bd1.js.map"
   },
   "entrypoints": [
     "static/css/main.60f44a28.css",
-    "static/js/main.a5d12f43.js"
+    "static/js/main.6ef94bd1.js"
   ]
 }
