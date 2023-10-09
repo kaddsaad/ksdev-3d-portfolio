@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.60f44a28.css",
-    "main.js": "/static/js/main.6ef94bd1.js",
-    "static/media/laptop.glb": "/static/media/laptop.d8412238a1bdbae08a32.glb",
-    "static/media/mouse.png": "/static/media/mouse.c5e3a6bfc3f5ce7347b1.png",
-    "static/media/mouseCtrl.png": "/static/media/mouseCtrl.712e20bc83636ca5b4d1.png",
-    "index.html": "/index.html",
-    "main.60f44a28.css.map": "/static/css/main.60f44a28.css.map",
-    "main.6ef94bd1.js.map": "/static/js/main.6ef94bd1.js.map"
+    "main.css": "/ksdev-3d-portfolio/static/css/main.60f44a28.css",
+    "main.js": "/ksdev-3d-portfolio/static/js/main.473dc43b.js",
+    "static/media/laptop.glb": "/ksdev-3d-portfolio/static/media/laptop.d8412238a1bdbae08a32.glb",
+    "static/media/mouse.png": "/ksdev-3d-portfolio/static/media/mouse.c5e3a6bfc3f5ce7347b1.png",
+    "static/media/mouseCtrl.png": "/ksdev-3d-portfolio/static/media/mouseCtrl.712e20bc83636ca5b4d1.png",
+    "index.html": "/ksdev-3d-portfolio/index.html",
+    "main.60f44a28.css.map": "/ksdev-3d-portfolio/static/css/main.60f44a28.css.map",
+    "main.473dc43b.js.map": "/ksdev-3d-portfolio/static/js/main.473dc43b.js.map"
   },
   "entrypoints": [
     "static/css/main.60f44a28.css",
-    "static/js/main.6ef94bd1.js"
+    "static/js/main.473dc43b.js"
   ]
 }
